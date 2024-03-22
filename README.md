@@ -8,11 +8,11 @@ Le programme fonctionne avec différents objets discutant entre eux selon le gra
 ![graphique](Graphe_fonctionnement.png)
 
 Les différents objets ont les objectifs suivant:
--Windows Capture : Enregistrer la fenêtre de jeu
--Screen analyse : renvoie l'état du jeu correspond à une capture
--Screen UI : créer une interface pour voir l'état et le jeu en cours
--Bot_ia : qui choisis une action en fonction de l'état
--Controller : Effectue l'action demandé en cliquant aux endroits désiré sur le jeu
+- Windows Capture : Enregistrer la fenêtre de jeu
+- Screen analyse : renvoie l'état du jeu correspond à une capture
+- Screen UI : créer une interface pour voir l'état et le jeu en cours
+- Bot_ia : qui choisis une action en fonction de l'état
+- Controller : Effectue l'action demandé en cliquant aux endroits désiré sur le jeu
 
 ## Prerequis
 
