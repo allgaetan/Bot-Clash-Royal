@@ -6,6 +6,7 @@ Ce projet a pour but de poser une base pour permettre le développement d'un bot
 
 Le programme fonctionne avec différents objets discutant entre eux selon le graphique suivant:
 ![graphique](Graphe_fonctionnement.png)
+
 Les différents objets ont les objectifs suivant:
 -Windows Capture : Enregistrer la fenêtre de jeu
 -Screen analyse : renvoie l'état du jeu correspond à une capture
