@@ -33,12 +33,12 @@ pip install sys pynput time cv2 numpy math pygame os ultralytics matplotlib
 Il faut aussi installer PyTorch à l'aide de la ligne de commande trouvable [sur ce site en indiquant sa configuration](https://pytorch.org/get-started/locally/)
 
 
-pour Linux il faut rajouter les commandes suivantes :
+- Pour Linux il faut rajouter les commandes suivantes :
 ```
 pip install scrcpy-client
 sudo apt install adb
 ```
-pour windows et mac:
+- Pour windows et mac:
 ```
 pip install pygetwindow mss
 ```
